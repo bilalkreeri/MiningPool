@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 cryptonote-universal-pool
 ====================
@@ -513,3 +514,6 @@ http://www.gnu.org/licenses/gpl-2.0.html
 =======
 # MiningPool
 
+=======
+# MiningPool
+>>>>>>> 5daad45595f2d8174c997323a50257e0fae31275
