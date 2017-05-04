@@ -2,7 +2,7 @@
     "coin": "AmericanCoin",
     "symbol": "AMC",
     "coinUnits": 100000000,
-    "coinDifficultyTarget": 120,
+    "coinDifficultyTarget": 100,
 
     "logging": {
         "files": {
@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "axQSyDHc3MCbDXAbun38KPT92TrVqn8zw8sPC8LyiMaLTs9j9vdbggFKhqaJySPLfVS88VxijSA2YK2Ze42RZCe32nLy7pM4A",
+        "poolAddress": "axRqBSH2PeM8rvXnXLhoTLBmFu8ovqfBNNMqp1HJeK28GpciEcaiVCuSfn1FGEW7bA4wZ8RnTZLoA6FhzgXbnFLM1UznaDEE6",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
